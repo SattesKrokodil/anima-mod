@@ -1,0 +1,1 @@
+give @s origins:orb_of_origin

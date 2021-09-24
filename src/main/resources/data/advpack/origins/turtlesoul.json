@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"advpack:transformation_powers/transform_turtle",
+		"origins:vegetarian",
+		"origins-classes:quality_equipment",
+		"origins-classes:more_stone_break_speed",
+		"origins-classes:no_mining_exhaustion",
+		"origins:fall_immunity",
+		"origins:natural_armor",
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/turtle",
+		"advpack:sounds/turtle_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength",
+		"origins:water_breathing"
+	],
+	"icon": "minecraft:turtle_spawn_egg",
+	"order": 1,
+	"impact": 1,
+	"name": "Turtle Soul",
+	"description": "“The turtle moves.”"
+}

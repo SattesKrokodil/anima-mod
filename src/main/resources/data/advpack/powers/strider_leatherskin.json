@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.armor",
+		"operation": "addition",
+		"value": 4 
+	},
+	"name": "Leather Skin",
+	"description": "Living in such harsh environment hardened your skin and increased your armor."
+}

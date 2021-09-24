@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"advpack:transformation_powers/transform_spider",
+		"origins:carnivore",
+		"advpack:spider_invisible_in_cobweb",
+		"origins-classes:efficient_repairs",
+		"origins-classes:tamed_animal_boost",
+		"origins-classes:tamed_potion_diffusal",
+		"origins:arthropod",
+		"origins:no_cobweb_slowdown",
+		"origins:master_of_webs",
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/spider",
+		"advpack:sounds/spider_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
+
+	],
+	"icon": "minecraft:spider_spawn_egg",
+	"order": 0,
+	"impact": 2,
+	"name": "Spider Soul",
+	"description": "Puppets are free as long as they love their strings."
+}

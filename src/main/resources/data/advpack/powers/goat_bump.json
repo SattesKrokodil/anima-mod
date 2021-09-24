@@ -1,0 +1,18 @@
+{
+	"type": "origins:target_action_on_hit",
+
+	"entity_action": {
+
+
+
+		"type": "origins:add_velocity",
+		"x": 1.3,
+		"set": true
+
+	},
+
+	"cooldown": 60,
+	"interval": 1,
+	"name": "test",
+	"hidden": true
+}

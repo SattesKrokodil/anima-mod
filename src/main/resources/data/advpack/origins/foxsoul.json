@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"advpack:transformation_powers/transform_fox",
+		"advpack:fox_speed_boost",
+		"advpack:fox_jump",
+		"origins-classes:more_animal_loot",
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/fox",
+		"advpack:sounds/fox_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
+
+	],
+	"icon": "minecraft:fox_spawn_egg",
+	"order": 2,
+	"impact": 1,
+	"name": "Fox Soul",
+	"description": "A fox can be smarter than a wolf."
+}

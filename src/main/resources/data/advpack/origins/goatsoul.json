@@ -1,0 +1,34 @@
+{
+
+	"powers": [
+
+		"advpack:transformation_powers/transform_goat",
+		"origins:vegetarian",
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:actives/goat_climbing",
+		"advpack:goat_knockback",
+		"advpack:goat_immune_falldmg",
+		"advpack:goat_jump",
+		"advpack:goat_bump",
+		"advpack:transformation_resources/goat",
+		"advpack:sounds/goat_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
+
+
+
+	],
+
+	"icon": "minecraft:goat_spawn_egg",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Goat Soul",
+
+	"description": "Maybe the Greatest Of All Time."
+
+}
